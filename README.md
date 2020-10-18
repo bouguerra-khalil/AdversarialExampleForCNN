@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center"> AdversarialExampleForCNN </h1>
-<img style="display: block; margin: auto;" alt="photo"  width="200" src="./images/Adversial.png">
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/Adversial.png">
 
 
 In this Notebook, we shall be looking at two subjects :
